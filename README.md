@@ -32,4 +32,4 @@ The System Integration (SI) Quantum AI Framework is designed to autonomously int
 ### Directory Mapping
 - Modify the `root_directory` parameter in `IntegrationEngine` to customize the root directory for recursive scanning.
 
-Thank you for using the SII Quantum AI Framework!
+Thank you for using the S.I. Quantum AI Framework!
